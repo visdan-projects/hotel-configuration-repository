@@ -1,4 +1,4 @@
 spring.data.mongodb.host: "mongo"
-spring.data.mongodb.port: "5450"
+spring.data.mongodb.port: "27017"
 redis.server: "redis"
 redis.port: "6379"

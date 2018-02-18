@@ -5,7 +5,7 @@ zuul.routes.authenticationservice: /auth/**
 zuul.routes.cartservice: /cart/**
 zuul.routes.inventoryservice: /inventory/**
 zuul.routes.reservationservice: /reservation/**
-zuul.sensitiveHeaders: Authorization,Cookie,Set-Cookie
+zuul.sensitiveHeaders: Cookie,Set-Cookie
 zuul.debug.request: true
 hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 60000
 ribbon.ConnectTimeout: 3000

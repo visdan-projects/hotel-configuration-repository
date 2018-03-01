@@ -7,7 +7,5 @@ Defines configuration properties for select services used within the application
 1. Account Service
 2. API Gateway Service
 3. Authentication Service
-4. Cart Service
-5. Inventory Service
-6. Reservation Service
+4. Inventory Service
 
